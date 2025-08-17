@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kaanoguzkan
-- 👀 I’m interested in ... C++, Java, SystemVerilog, React
-- 🌱 I’m currently learning ... C++ and System Verilog
+- 👀 I’m interested in ... C++, React
 - 📫 How to reach me ... kaan.oguzkan@ug.bilkent.edu.tr | kaanoguzkan@gmail.com
 - 😄 Pronouns: ... he/him 
 
