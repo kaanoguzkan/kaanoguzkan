@@ -1,4 +1,5 @@
 S. Kaan Oğuzkan  
+Undergraduate Volunteer at Alkan Lab for Bioinformatics and Computational Genomics\
 Computer Engineering, Bilkent University  
 [kaanoguzkan.com](https://kaanoguzkan.com) 
 [osguide.org](https://osguide.org)
